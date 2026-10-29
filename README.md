@@ -3,7 +3,7 @@
 ![Python 3.10+](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-LCEL-1C3C3C?logo=langchain&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-UI-FF4B4B?logo=streamlit&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-Vector-Store-006400)
+![FAISS](https://img.shields.io/badge/FAISS-Vector--Store-006400)
 ![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-FFFFFF?logo=ollama&logoColor=black)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
